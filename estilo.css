@@ -1,0 +1,54 @@
+.logo {
+    padding-left: 140px;
+    padding-top: 20px;
+}
+
+
+.Espacamento{
+    width: 650px;
+}
+
+
+.cabecalho {
+    width: 100%;
+    padding-right: 140px;
+    
+   
+}
+
+.cabecalho2 {
+    width: 100%;
+ 
+    
+   
+}
+
+
+
+#capa{
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+.textos{
+    padding-left: 140px;
+    padding-right: 140px;
+}
+
+#direitos{
+    padding-left: 40%;
+    padding-right: 40%;
+}
+
+.cabecalhoQuemSomos{
+    padding-top: 40px;
+    padding-left: 140px;
+    padding-right: 140px;
+}
+
+.contato{
+    width: 100%;
+    padding-top: 40px;
+    padding-left: 140px;
+    padding-right: 140px;
+}
